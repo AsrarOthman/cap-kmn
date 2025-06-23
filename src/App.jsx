@@ -18,7 +18,7 @@ function App() {
         <div className="hero">
           {/* <h1 className="herof , bebas-neue-regular">CAPTAIN MOBILE</h1> */}
           <img
-            src="/captainmobile/capbg.webp" // atau hanya "logo.jpeg" pun boleh
+            src="/capbg.webp" // atau hanya "logo.jpeg" pun boleh
             width={100}
             height={100}
             alt="logo"
@@ -46,12 +46,7 @@ function App() {
               }
             >
               <div>
-                <img
-                  src="/captainmobile/arrows-sort.svg"
-                  width={30}
-                  height={30}
-                  alt="logo"
-                />
+                <img src="/arrows-sort.svg" width={30} height={30} alt="logo" />
               </div>
               <div className="fon-center">
                 NAK TAHU HARGA "TRADE IN' GADGET KORANG ?!
@@ -68,7 +63,7 @@ function App() {
             >
               <div>
                 <img
-                  src="/captainmobile/brand-whatsapp.svg" // atau hanya "logo.jpeg" pun boleh
+                  src="/brand-whatsapp.svg" // atau hanya "logo.jpeg" pun boleh
                   width={30}
                   height={30}
                   alt="logo"
@@ -89,7 +84,7 @@ function App() {
             >
               <div>
                 <img
-                  src="/captainmobile/coin.svg" // atau hanya "logo.jpeg" pun boleh
+                  src="/coin.svg" // atau hanya "logo.jpeg" pun boleh
                   width={30}
                   height={30}
                   alt="logo"
@@ -108,7 +103,7 @@ function App() {
             >
               <div>
                 <img
-                  src="/captainmobile/ambulance.svg" // atau hanya "logo.jpeg" pun boleh
+                  src="/ambulance.svg" // atau hanya "logo.jpeg" pun boleh
                   width={30}
                   height={30}
                   alt="logo"
@@ -129,7 +124,7 @@ function App() {
             >
               <div>
                 <img
-                  src="/captainmobile/bell-ringing.svg" // atau hanya "logo.jpeg" pun boleh
+                  src="/bell-ringing.svg" // atau hanya "logo.jpeg" pun boleh
                   width={30}
                   height={30}
                   alt="logo"
@@ -151,7 +146,7 @@ function App() {
             >
               <div>
                 <img
-                  src="/captainmobile/fb.png" // atau hanya "logo.jpeg" pun boleh
+                  src="/fb.png" // atau hanya "logo.jpeg" pun boleh
                   width={30}
                   height={30}
                   alt="logo"
@@ -173,7 +168,7 @@ function App() {
             >
               <div>
                 <img
-                  src="/captainmobile/tik.png" // atau hanya "logo.jpeg" pun boleh
+                  src="/tik.png" // atau hanya "logo.jpeg" pun boleh
                   width={30}
                   height={30}
                   alt="logo"
@@ -195,7 +190,7 @@ function App() {
             >
               <div>
                 <img
-                  src="/captainmobile/instagram.png" // atau hanya "logo.jpeg" pun boleh
+                  src="/instagram.png" // atau hanya "logo.jpeg" pun boleh
                   width={30}
                   height={30}
                   alt="logo"
@@ -217,7 +212,7 @@ function App() {
             >
               <div>
                 <img
-                  src="/captainmobile/logo.png" // atau hanya "logo.jpeg" pun boleh
+                  src="/logo.png" // atau hanya "logo.jpeg" pun boleh
                   width={30}
                   height={30}
                   alt="logo"
@@ -241,7 +236,7 @@ function App() {
             >
               <div>
                 <img
-                  src="/captainmobile/search.svg" // atau hanya "logo.jpeg" pun boleh
+                  src="/search.svg" // atau hanya "logo.jpeg" pun boleh
                   width={30}
                   height={30}
                   alt="logo"
@@ -263,7 +258,7 @@ function App() {
             >
               <div>
                 <img
-                  src="/captainmobile/logo.png" // atau hanya "logo.jpeg" pun boleh
+                  src="/logo.png" // atau hanya "logo.jpeg" pun boleh
                   width={30}
                   height={30}
                   alt="logo"
