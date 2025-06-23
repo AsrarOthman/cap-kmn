@@ -30,7 +30,7 @@ function App() {
         <div className="card-main">
           <div>
             <h1 className="herof , bebas-neue-regular">CAPTAIN MOBILE</h1>
-            <h3 style={{ color: "white" }}> Lubuk iPhone Terbesar Kuantan</h3>
+            <h3 style={{ color: "white" }}> Lubuk iPhone Terbesar Kemaman</h3>
             <h3
               style={{ color: "white", fontSize: "12px", marginBottom: "20px" }}
             >
@@ -42,12 +42,12 @@ function App() {
             <button
               className="card-button-main"
               onClick={() =>
-                window.open("https://naktradeinphone.wassap.my/", "_blank")
+                window.open("https://tradeincmk.wassap.my/", "_blank")
               }
             >
               <div>
                 <img
-                  src="/captainmobile/arrows-sort.svg" // atau hanya "logo.jpeg" pun boleh
+                  src="/captainmobile/arrows-sort.svg"
                   width={30}
                   height={30}
                   alt="logo"
@@ -63,7 +63,7 @@ function App() {
             <button
               className="card-button-main "
               onClick={() =>
-                window.open("https://beliphone.wassap.my/", "_blank")
+                window.open("https://beligadgetkemaman.wassap.my/", "_blank")
               }
             >
               <div>
@@ -84,7 +84,7 @@ function App() {
             <button
               className="card-button-main"
               onClick={() =>
-                window.open("https://jualanurgent.wassap.my/", "_blank")
+                window.open("https://jualanurgentkemaman.wassap.my", "_blank")
               }
             >
               <div>
@@ -103,7 +103,7 @@ function App() {
             <button
               className="card-button-main"
               onClick={() =>
-                window.open("https://captainrepair.wassap.my/", "_blank")
+                window.open("https://repairkemaman.wassap.my/", "_blank")
               }
             >
               <div>
@@ -144,7 +144,7 @@ function App() {
               className="card-button-main"
               onClick={() =>
                 window.open(
-                  "https://www.facebook.com/captainmobile.kuantan",
+                  "https://www.facebook.com/captainmobile.my",
                   "_blank"
                 )
               }
@@ -166,7 +166,7 @@ function App() {
               className="card-button-main"
               onClick={() =>
                 window.open(
-                  "https://www.tiktok.com/@captainmobilekuantan?lang=en",
+                  "https://www.tiktok.com/@captainmobilekemaman",
                   "_blank"
                 )
               }
@@ -188,7 +188,29 @@ function App() {
               className="card-button-main"
               onClick={() =>
                 window.open(
-                  "https://www.whatsapp.com/channel/0029VbAIsByHrDZb6OVZiw36",
+                  "https://www.instagram.com/captainmobilekemaman",
+                  "_blank"
+                )
+              }
+            >
+              <div>
+                <img
+                  src="/captainmobile/instagram.png" // atau hanya "logo.jpeg" pun boleh
+                  width={30}
+                  height={30}
+                  alt="logo"
+                />
+              </div>
+              <div className="fon-center">Official Instagram </div>
+            </button>
+          </div>
+
+          <div>
+            <button
+              className="card-button-main"
+              onClick={() =>
+                window.open(
+                  "https://whatsapp.com/channel/0029VbAIsByHrDZb6OVZiw36",
                   "_blank"
                 )
               }
@@ -271,7 +293,7 @@ function App() {
                     }}
                     onClick={() =>
                       window.open(
-                        "https://www.google.com/maps?ll=3.826388,103.303286&z=16&t=m&hl=en&gl=MY&mapclient=embed&cid=11539890990524045290",
+                        "https://www.google.com/maps/place/Captain+Mobile+Kemaman/@4.222399,103.4097042,15z/data=!3m1!4b1!4m6!3m5!1s0x31c88748979946a1:0x403e2a7d08b7ac90!8m2!3d4.2223991!4d103.4199825!16s%2Fg%2F11xfrk2yyy?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
                         "_blank"
                       )
                     }
@@ -284,7 +306,7 @@ function App() {
 
               <ErrorBoundary>
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3980.9243727511416!2d103.30071077497433!3d3.8263884961474424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31c8bb7359e55845%3A0xa025edb704ea97ea!2sCaptain%20Mobile%20Kuantan%20-%20Kedai%20iPhone%20dan%20Android%20%2C%20Gadget%20%26%20Repair%20Phone%20%2C%20LCD%20%2C%20Screen%20%2C%20Battery!5e0!3m2!1sen!2smy!4v1749976310761!5m2!1sen!2smy"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15915.956135131168!2d103.40970418437976!3d4.22239903230535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31c88748979946a1%3A0x403e2a7d08b7ac90!2sCaptain%20Mobile%20Kemaman!5e0!3m2!1sen!2smy!4v1750689896204!5m2!1sen!2smy"
                   width="100%"
                   height="450"
                   style={{ border: 0 }}
